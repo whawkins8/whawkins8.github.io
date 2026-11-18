@@ -1,3 +1,8 @@
+---
+layout: home
+title: William's Homepage
+---
+
 # My Homepage!
 
 Hello! I'm William, and welcome to my homepage! 
@@ -17,7 +22,7 @@ Like I said, these two reasons are very boring and not likely to inspire you to
 read what I have here! Inspiring you to continue is not my goal, turn back now,
 and do something better with your time than reading my site!
 
-If you want to get in touch with me, send a message to william (dot) r (dot)
-hawkins (at) outlook (dot) (common website ending)
+If you want to get in touch with me, send a message to `william (dot) r (dot)
+hawkins (at) outlook (dot) (common website ending)`
 
 
